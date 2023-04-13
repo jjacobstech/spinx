@@ -1,0 +1,35 @@
+ body{
+    background-color:rgb(228, 227, 227);
+ }
+ #navbar #links div a{
+text-decoration: none;
+color: rgb(110, 109, 109);
+ }
+ #navbar #links div a:hover{
+   border-bottom: 1px solid black;
+   color: black;
+ }
+ #navbar #links .col-2 a:last-child {
+color: black;
+ }
+ #share svg{
+  width: 570px;
+  height: 600px;
+  border-radius: 30px;
+ }
+ #question-mark {
+  display: block;
+  position: absolute;
+  margin-top: 40%;
+  margin-left: 24%;
+ }
+ #question-mark-2{
+  display: block;
+  position: absolute;
+  margin-top: 38%;
+  margin-right: 24%;
+ }
+#bottom-link a{
+  color: rgb(50, 168, 76);
+  text-decoration: none;
+}
